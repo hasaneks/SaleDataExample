@@ -1,5 +1,3 @@
-# SaleDataExample
-
 Gerçekleşen satışın kargo durumunu sorgulayabileceğimiz
 restful servis geliştirmenizi bekliyoruz.
 
