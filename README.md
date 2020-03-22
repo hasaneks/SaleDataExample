@@ -16,7 +16,9 @@ Bu servisten ilgili satışın kargo durumunu öğrenebilirsiniz.
 Status: false (Teslim edilmedi)
 Status: true (Teslim edildi)
 
-Örnek Request : /sale/shipping?id=X
+# Örnek 
+
+Request : /sale/shipping?id=X
 
 Response:
 {
